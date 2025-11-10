@@ -31,3 +31,6 @@ It aims to:
 ## ✅ Final Conclusion
 This HR Analytics Dashboard demonstrates how Power BI can transform raw HR data into meaningful insights. By visualizing attrition and workforce patterns, it enables HR leaders to take proactive actions, improve retention, and build a more balanced and engaged workforce.
 The project highlights the power of data storytelling and visual analytics in modern HR decision-making.
+
+### Screenshots
+[Dashboard Preview](https://github.com/imaliakarim/HR-Analytics-Dashboard/blob/main/HR_Dashboard.png)
